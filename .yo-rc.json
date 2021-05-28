@@ -45,7 +45,10 @@
     "skipCheckLengthOfIdentifier": false,
     "skipFakeData": false,
     "pages": [],
-    "nativeLanguage": "en",
-    "entities": ["BankAccount", "Label", "Operation"]
+    "nativeLanguage": "fr",
+    "entities": ["BankAccount", "Label", "Operation"],
+    "herokuAppName": "sleepy-coast-60811",
+    "herokuDeployType": "jar",
+    "herokuJavaVersion": "11"
   }
 }
